@@ -17,5 +17,5 @@ The project investigates the relationship between **annual household income** an
 - Interpretation of statistical results in context  
 
 ## Contents
-- `analysis_code.R` – R scripts for data cleaning, analysis, and plotting  
-- `final_report.pdf` – Final write-up including discussion and conclusions
+- `mayerfeld_project.Rmd` – R scripts for data cleaning, analysis, and plotting  
+- `mayerfeld_project.pdf` – Final write-up including discussion and conclusions
